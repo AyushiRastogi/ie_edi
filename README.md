@@ -1,2 +1,2 @@
-# ie_edi
-Diversity and Inclusion Working Group at Informatics Europe
+# Diversity and Inclusion Working Group 
+at Informatics Europe
