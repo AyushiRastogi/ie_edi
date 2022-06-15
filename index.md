@@ -1,36 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Diversity and Inclusion Working group at Informatics Europe
 
-You can use the [editor on GitHub](https://github.com/AyushiRastogi/ie_edi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Diversity and Inclusion Working Group (or IE EDI) is a part of [Informatics Europe](https://www.informatics-europe.org/), and a place to connect, exchange and cooperate with your European subject-matter experts.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The objective of this page is to gather ongoing EDI initiatives within Europe and experiences with these initiatives.
 
-### Markdown
+### Informatics Europe
+The Voice of Informatics Research and Education in Europe. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Ongoing and ready to start Working Groups
 
-```markdown
-Syntax highlighted code block
+- Data Analysis and Reporting
+- Diversity and Inclusion
+- Education Research
+- Open Science
+- Societal Impact and Ethics
+- Sustainability
 
-# Header 1
-## Header 2
-### Header 3
+### How to participate?
+Create a pull requests describing the initiative, intended audience, place, and experience.
+For example, 
 
-- Bulleted
-- List
+### Initiatives by IPN EDI - Netherlands
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AyushiRastogi/ie_edi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
